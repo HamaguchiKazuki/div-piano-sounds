@@ -112,3 +112,5 @@ so/*
 ra/*
 si/*
 
+# dotfile
+.DS_Store
